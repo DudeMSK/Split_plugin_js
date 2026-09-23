@@ -1,0 +1,36 @@
+{
+  "name": "jquery-split-arrow",
+  "version": "1.0.0",
+  "description": "jQuery plugin on top of Split.js: resizable split panels with floating arrow handles",
+  "main": "split_arrow.js",
+  "browser": "split_arrow.js",
+  "files": [
+    "split_arrow.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "jquery",
+    "jquery-plugin",
+    "split",
+    "split.js",
+    "splitter",
+    "resizable",
+    "panels",
+    "gutter"
+  ],
+  "author": "DudeMSK",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DudeMSK/Split_plugin_js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DudeMSK/Split_plugin_js/issues"
+  },
+  "homepage": "https://github.com/DudeMSK/Split_plugin_js#readme",
+  "peerDependencies": {
+    "jquery": ">=3.0.0",
+    "split.js": ">=1.6.0"
+  }
+}
